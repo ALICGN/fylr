@@ -37,12 +37,12 @@
     "demo-data": "bash scripts/make-demo-data.sh"
   },
   "dependencies": {
-    "@tauri-apps/api": "^2.12.4"
+    "@tauri-apps/api": "^2.12.5"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^7.3.1",
     "@tailwindcss/vite": "^4.3.5",
-    "@tauri-apps/cli": "^2.12.4",
+    "@tauri-apps/cli": "^2.12.5",
     "lucide-svelte": "^1.0.1",
     "svelte": "^5.57.3",
     "svelte-check": "^4.7.8",
